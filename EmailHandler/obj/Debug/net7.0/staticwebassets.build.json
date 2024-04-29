@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5iUdRrl4ySGLMKmq7l6lg8SwmAkKizmrQJoS1hMrmEc=",
+  "Source": "EmailHandler",
+  "BasePath": "_content/EmailHandler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
